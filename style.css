@@ -90,9 +90,6 @@ body {
 .my_person_items {
     list-style-type: disc;
     padding-left: 30px;
-}
-
-.my_person_items {
     font-family: "PT-Serif";
     font-size: 24px;
     font-weight: 400;
