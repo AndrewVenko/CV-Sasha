@@ -26,6 +26,7 @@
     font-weight: 700;
     font-style: italic;
 }
+
 /* =======HEADER========== */
 * {
     margin: 0px;
@@ -61,7 +62,7 @@ body {
     width: 600px;
     padding-left: 30px;
     padding-top: 20px;
-    font-family: "Kalam";
+    font-family: "PT-Serif";
     font-size: 24px;
     font-weight: 700;
     font-style: italic;
@@ -80,7 +81,7 @@ body {
 }
 
 .my_person_text {
-    font-family: "Kalam";
+    font-family: "PT-Serif";
     font-size: 28px;
     font-weight: 400;
     font-style: normal;
@@ -92,7 +93,7 @@ body {
 }
 
 .my_person_items {
-    font-family: "Kalam";
+    font-family: "PT-Serif";
     font-size: 24px;
     font-weight: 400;
     font-style: normal;
